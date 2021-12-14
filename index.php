@@ -26,5 +26,13 @@
 <li><a href ="lab-2-9.php">Упражнение 1-14</a></li>
 <li><a href ="lab-2-10.php">Самостоятельная №2</a></li>
 <li><a href ="lab-2-11.php">Самостоятельная №3</a></li>
+<h4><br> Лабораторная №2 </br></h4>
+<li><a href ="lab-2.1.php">Задание 2-1</a></li>
+<li><a href ="lab2-2.php">Задание 2-2</a></li>
+<li><a href ="lab2-3.php">Задание 2-3</a></li>
+<li><a href ="lab2-4.php">Cамостоятельная 2-4</a></li>
+<li><a href ="lab2-5.php">Самостоятельная 2-5</a></li>
+<li><a href ="lab2-6.php">Самостоятельная 2-6</a></li>
+
 
 

@@ -54,8 +54,12 @@
 <li><a href ="s3-4.php">Задача 3.4</a></li>
 <li><a href ="s3-5.php">Задача 3.5</a></li>
 <li><a href ="s3-5scen.php">Задача 3.5</a></li>
-<li><a href ="s3-6.html">Задача 3.6</a></li>
-<li><a href ="s3-6.php">Задача 3.6</a></li>
+<li><a href ="s3-6-5.php">Задача 3.6. Вариант 5</a></li>
+<li><a href ="s3-6.html">Задача 3.6. Вариант 19</a></li>
+<li><a href ="s3-6.php">Вариант 19(скрипт)</a></li>
+<li><a href ="s3-6-21.php">Задача 3.6. Вариант 21</a></li>
+
+
 
 
 
